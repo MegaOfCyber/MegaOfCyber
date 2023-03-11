@@ -1,4 +1,4 @@
-# Hi there, i'm Maverick An Thos Is My first Time using MarkDown 👋
+# Hi there, i'm Maverick And this is My first Time using MarkDown 👋
 ## About me:
 - Studying at MPD University (Multi Data Palembang)
 - Currently learning HTML
